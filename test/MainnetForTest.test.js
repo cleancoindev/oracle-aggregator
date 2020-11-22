@@ -1,7 +1,6 @@
 const { ethers } = require("hardhat");
 const readline = require("readline");
 const { expect } = require("chai");
-// const GelatoOracleAggregatorJSON = require("../artifacts/contracts/GelatoOracleAggregator.sol/GelatoOracleAggregator.json");
 const ChainlinkOracleAbi = require("../artifacts/@chainlink/contracts/src/v0.6/interfaces/AggregatorV3Interface.sol/AggregatorV3Interface.json")
   .abi;
 
