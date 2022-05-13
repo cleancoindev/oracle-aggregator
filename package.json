@@ -32,7 +32,7 @@
     "@chainlink/contracts": "0.0.11",
     "@gelatonetwork/core": "^1.6.0",
     "@openzeppelin/contracts": "^3.2.0",
-    "chai": "^4.2.0",
+    "chai": "^4.3.6",
     "ethereum-waffle": "^3.2.0"
   }
 }
